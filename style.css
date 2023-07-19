@@ -1,0 +1,113 @@
+body {
+    font-family: 'Cabin Condensed', sans-serif;
+}
+
+.cor-principal {
+    color: #E74646; 
+}
+
+
+.cor-principal:hover {
+    color: #f34e4e;
+}
+
+.fundo-header {
+    background: #E74646 !important;
+
+}
+
+.fonte-size {
+    font-size: 1.5em;
+    
+}
+
+.fonte-size-i {
+    font-size: 1.2em;
+    
+}
+
+.fonte-size-titulo {
+    font-size: 0.7em;
+    font-weight: bold;
+}
+
+.br-header {
+    border-radius: 0.7em;
+}
+
+.color-bk {
+    color: white !important;
+}
+
+.padd-ri {
+    padding-right: 18em;
+}
+
+.carrossel-titulo {
+    font-size: 5em;
+}
+
+.carrosel-sub-titulo {
+    font-size: 1.2em;
+}
+
+.imagem-carousel {
+    object-fit: cover;        /*tamanho todo da tela*/
+    object-position: 0 10%;   /*x e y*/
+    max-height: 170px;
+}
+
+.inline {
+    display: inline !important;
+}
+
+.size-form {
+    height: 3em;
+    width: 20em;
+    border-radius: 1.2em;
+}
+
+.size-form-more {
+    height: 3em;
+    width: 15em;
+    border-radius: 1.5em;
+}
+
+.center {
+    display: flex;
+    justify-content: center !important;
+}
+
+.end {
+    display: flex;
+    justify-content: end !important;
+}
+
+.padd-h1-form {
+    padding-right: 1.4em !important;
+}
+
+.padd-check {
+    padding-right: 5em;
+}
+
+.padd-top {
+    margin-top: 3em;
+}
+
+.padd-top2 {
+    margin-top: 1em;
+}
+
+.fonte-size-foo{
+    font-size: 0.5em !important;
+}
+
+.flex-start {
+    display: flex;
+    justify-content: start !important;
+}
+
+.hand {
+    cursor:pointer !important;
+ }
